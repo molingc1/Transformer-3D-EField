@@ -32,10 +32,3 @@ This repository contains the full implementation of a deep learning approach tha
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone this repository
-
-```bash
-git clone https://github.com/molingc1/Transformer-3D-EField.git
-cd Transformer-3D-EField
